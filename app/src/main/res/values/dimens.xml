@@ -3,7 +3,7 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 
-    <dimen name="main.tv.num.tam">35sp</dimen>
+    <dimen name="main.tv.num.tam">40sp</dimen>
     <dimen name="main.tv.num.padd">30dp</dimen>
 
 
